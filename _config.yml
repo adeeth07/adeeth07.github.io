@@ -24,6 +24,8 @@ external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adeeth07@gmail.com"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/AdeethCariappa"}
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/A-G-Cariappa"}
+  - {title: LinkedIn, icon: linkedin, url: "https://https://www.linkedin.com/in/a-g-adeeth-cariappa-550b7b15a/"}
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
