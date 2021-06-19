@@ -2,7 +2,9 @@
 layout: page
 title: ""
 ---
-![Profile pic](20210313_115737.jpg){:height="50%" width="50%"}{:align="center"}
+<p align="center">
+  <img width="460" height="300" src="20210313_115737.jpg">
+</p>
 
 I'm a Ph.D. Scholar in the [Division of Dairy Economics, Statistics and Management](http://ndri.res.in/divisions/dairy-economics-statistics-and-management/) at the [ICAR - National Dairy Research Institute](http://ndri.res.in/), Karnal, HR, India.  
 
