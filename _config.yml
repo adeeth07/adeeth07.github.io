@@ -25,6 +25,7 @@ external:                  # see http://fontawesome.com/icons
   - {title: Twitter, icon: twitter, url: "https://twitter.com/AdeethCariappa"}
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/A-G-Cariappa"}
   - {title: LinkedIn, icon: linkedin, url: "https://https://www.linkedin.com/in/a-g-adeeth-cariappa-550b7b15a/"}
+  - {title: ORCID, icon: orcid, url:"https://orcid.org/0000-0001-8920-1586"}
 
 
 comments:
