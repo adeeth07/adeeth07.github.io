@@ -3,7 +3,6 @@ layout: default
 title: "Working papers"
 ---
 # Working papers #
-## Data generation and estimation strategy used ##
 
 Sl. No | Title | Data | Method
 ------------ | ------------- | ------------ | -------------
