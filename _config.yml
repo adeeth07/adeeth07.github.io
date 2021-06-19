@@ -9,9 +9,9 @@ date_format: "%B %d, %Y"
 # Layout
 
 show_social: true          # show site description and social links in the footer
-show_excerpts: false        # show article excerpts on the home page
-show_frame: false          # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true          # adds a gray frame to the site
+show_sidebar: true        # show a sidebar instead of the usual header
 
 # Menu
 
@@ -25,7 +25,7 @@ external:                  # see http://fontawesome.com/icons
   - {title: Twitter, icon: twitter, url: "https://twitter.com/AdeethCariappa"}
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/A-G-Cariappa"}
   - {title: LinkedIn, icon: linkedin, url: "https://https://www.linkedin.com/in/a-g-adeeth-cariappa-550b7b15a/"}
-  - {title: ORCID, icon: orcid, url:"https://orcid.org/0000-0001-8920-1586"}
+  - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0001-8920-1586"}
 
 
 comments:
