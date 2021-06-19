@@ -17,13 +17,13 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:
   - {title: "CV", url: "/CV.pdf"}
-  - {title: "Research", url: "https://www.researchgate.net/profile/A-G-Cariappa"}
-  - {title: "Latest", file: "latest.md"}
+  - {title: "Published Research", file: "latest.md"}
+  - {title: "Working Papers", file: "wp.md"}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adeeth07@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/adeeth07"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/AdeethCariappa"}
+  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/A-G-Cariappa"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
