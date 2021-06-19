@@ -2,7 +2,7 @@
 layout: default
 title: "Latest research"
 ---
-# < Published journal articles (after 2020) #
+# Latest journal articles #
 
 Sl. No.| Title | Year | Journal | Link
 ------------ | ------------- | ------------ | ------------- | -------------
