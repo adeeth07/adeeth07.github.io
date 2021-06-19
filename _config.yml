@@ -16,9 +16,9 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:
-  - {title: "CV", url: "/CV.pdf", icon: home}
+  - {title: "CV", url: "/CV.pdf"}
   - {title: "Research", url: "https://www.researchgate.net/profile/A-G-Cariappa"}
-  - {title: "Blog", file: "blog.md"}
+  - {title: "Latest", file: "latest.md"}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adeeth07@gmail.com"}
