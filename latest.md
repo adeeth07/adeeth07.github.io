@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Latest research"
 ---
 # Latest journal articles #
