@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-<p align="right">
+<p align="center">
   <img width="420" height="300" src="20210313_115737.jpg">
 </p>
 
