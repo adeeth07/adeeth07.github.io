@@ -14,3 +14,4 @@ Sl. No.| Title | Year | Journal | Link
 6. | Why are the pepper prices declining? An analysis of changing production and trade scenario in India | 2020 | Journal of Plantation Crops | [Open access](https://updatepublishing.com/journal/index.php/JPC/article/view/6219)
 
 
+### More in [Google Scholar](https://scholar.google.co.in/citations?user=qMcgmwIAAAAJ&hl=en), [IDEAS/REPEC](https://ideas.repec.org/f/pca1474.html) and [SSRN](https://privpapers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4041770)###
