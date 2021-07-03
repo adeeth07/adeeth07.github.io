@@ -4,9 +4,9 @@ title: "Working papers"
 ---
 # Working papers #
 
-Sl. No | Title | Data | Method | Status
+Sl. No | Title | Data and Methods | Link | Status
 ------------ | ------------- | ------------ | -------------
-1. | [Prevention Is Better Than Cure: Experimental Evidence From Milk Fever Incidence in Dairy Animals of Haryana, India](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851561) | RCT | DID, ANCOVA (lagged dependent variable) | Under review
-2. | [Estimation of Economic Losses Due to Milk Fever and Efficiency Gains if Prevented: Evidence From Haryana, India](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851567) | Secondary sources and survey | Economic Surplus | Under review
-3. | [Impact of COVID-19 Induced Lockdown on Wheat Prices: Empirical Evidence from Interrupted Time Series Analysis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755377) | Secondary sources | Interrupted Time Series Analysis | -
-4. | [Pandemic Led Food Price Anomalies and Supply Chain Disruption: Evidence from COVID-19 Incidence in India](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680634) | Secondary sources and survey | ITSA, Structural break, PCA | R&R
+1. | Prevention Is Better Than Cure: Experimental Evidence From Milk Fever Incidence in Dairy Animals of Haryana, India | RCT and DID | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851561) | Under review
+2. | Estimation of Economic Losses Due to Milk Fever and Efficiency Gains if Prevented: Evidence From Haryana, India | Secondary sources, survey and Economic Surplus model | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851567) | Under review
+3. | Impact of COVID-19 Induced Lockdown on Wheat Prices: Empirical Evidence from Interrupted Time Series Analysis | Secondary sources and Interrupted Time Series Analysis (ITSA) | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755377) | -
+4. | Pandemic Led Food Price Anomalies and Supply Chain Disruption: Evidence from COVID-19 Incidence in India | Secondary sources, survey and ITSA, Structural Break (AO1 Model) | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680634) | R&R
