@@ -9,7 +9,6 @@ title: "More"
 
 Sl. No | Data | Source | Link 
 ------------ | ------------- | ------------ | -------------
-
 1. | Wholesale and retail prices of essential commodities | Ministry of Consumer  Affairs,  Food  and  Public  Distribution,  GOI | [Link](https://fcainfoweb.nic.in/reports/report_menu_web.aspx)
 2. | Consumer Price Index | Ministry of Statistics and Programme Implementation , GOI | [Link](http://164.100.34.62:8080/Default1.aspx)
 3. | Wholesale Price Index | Ministry OF Commerce & Industry, GOI | [Link](https://eaindustry.nic.in/wpi_press_release_archive.asp)
@@ -24,5 +23,3 @@ Sl. No | Data | Source | Link
 12. | Export and Import | Ministry OF Commerce & Industry, GOI | [Link](https://tradestat.commerce.gov.in/eidb/default.asp)
 13. | NSSO surveys | Ministry of Statistics and Programme Implementation , GOI and ICSSR | Register and Download at [National Data Archive](http://microdata.gov.in/nada43/index.php/catalog) and [ICSSR](http://www.icssrdataservice.in/)
 14. | Health and Nutrition | The Demographic and Health Surveys (DHS) Program | Register and Download at[Link](https://dhsprogram.com/)
-
-
