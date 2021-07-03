@@ -19,6 +19,7 @@ navigation:
   - {title: "CV", url: "/CV.pdf"}
   - {title: "Published Research", file: "latest.md"}
   - {title: "Working Papers", file: "wp.md"}
+  - {title: "More", file: "more.md"}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adeeth07@gmail.com"}
