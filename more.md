@@ -25,5 +25,6 @@ Sl. No | Data | Source | Link
 16. | Village Dynamics in South Asia | ICRISAT | [Link](http://vdsa.icrisat.ac.in/vdsa-index.htm)
 17. | Historical data - Statistical Abstracts from 1840 | Digital South Asia Library, University of Chicago | [Link](https://dsal.uchicago.edu/statistics/)
 18. | COVID-19 cases, deaths, RT-PCR tests, vaccination, _etc_ | COVID-19 India API | [Link](https://api.covid19india.org/)
+19. | Socio-Economic Caste Census | Ministry of Rural Development, GOI | [Link](https://secc.gov.in/welcome)
 
 [How to create a personal website in GitHub?](https://www.youtube.com/watch?v=qZsgPgGdOzQ&t=836s)
