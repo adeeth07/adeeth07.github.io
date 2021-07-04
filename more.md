@@ -2,7 +2,7 @@
 layout: page
 title: "Research Resources"
 ---
-# For Masters and PhD Agricultural Economists #
+# For Agricultural Economists #
 ## Data sources ##
 
 Sl. No | Data | Source | Link 
