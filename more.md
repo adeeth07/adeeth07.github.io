@@ -23,5 +23,6 @@ Sl. No | Data | Source | Link
 14. | Health and Nutrition | The Demographic and Health Surveys (DHS) Program | Register and Download at [Link](https://dhsprogram.com/)
 15. | District Level Database for Agriculture | ICRISAT-TCI | [Link](http://data.icrisat.org/dld/index.html)
 16. | Village Dynamics in South Asia | ICRISAT | [Link](http://vdsa.icrisat.ac.in/vdsa-index.htm)
+17. | Historical data - Statistical Abstracts from 1840 | Digital South Asia Library, University of Chicago | [Link](https://dsal.uchicago.edu/statistics/)
 
 [How to create a personal website in GitHub?](https://www.youtube.com/watch?v=qZsgPgGdOzQ&t=836s)
