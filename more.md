@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Research Resources"
+title: "Research Resources for Agricultural Economists"
 ---
-# For Agricultural Economists #
 ## Data sources ##
 
 Sl. No | Data | Source | Link 
