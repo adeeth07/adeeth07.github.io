@@ -27,5 +27,12 @@ Sl. No | Data | Source | Link
 19. | Socio-Economic Caste Census | Ministry of Rural Development, GOI | [Link](https://secc.gov.in/welcome)
 20. | Global Food Prices (72 countries, 1500 markets since 2003) | World Food Programme | [Link](https://data.humdata.org/dataset/wfp-food-prices)
 21. | Milk production, availability, livestock population, share in GDP,  _etc_ | NDDB | [Link](https://www.nddb.coop/information/stats)
+22. | Migration - Interstate, Intrastate, Child,  _etc_ and Migration corridors | India Migration Now | [Link](https://indiamigrationnow.org/public-datasets/)
+23. | Food Grain Bulletin - Buffer stock, allocation, offtake, _etc_ |  Ministry of Consumer  Affairs,  Food  and  Public  Distribution,  GOI | [Link](https://dfpd.gov.in/food-grain-bulletin.htm)
+24. | MGNREGA - Beneficiaries, Demand & Allocation of works, Work done, Financial Progress, _etc_ | Ministry of Rural Development, GOI | [Link](http://mnregaweb4.nic.in/netnrega/MISreport4.aspx#)
+25. | Night Lights (1994-2013), Consumption, Forest cover, roads, _etc_ | The Socioeconomic High-resolution Rural-Urban Geographic Platform for India (SHRUG) | [Link](http://www.devdatalab.org/shrug)
+26. | Multi-topic (Consumption, agriculture, subsidies, health, _etc_) panel survey of 41,554 households in 1503 villages | The India Human Development Survey (IHDS) | [Link](https://ihds.umd.edu/data)
+27. | Global Trade | UNComtrade Database | [Link](https://comtrade.un.org/)
+28. | District and block level weather prediction | IMD | [Link](https://nwp.imd.gov.in/blf/blf_temp/)
 
 [How to create a personal website in GitHub?](https://www.youtube.com/watch?v=qZsgPgGdOzQ&t=836s)
