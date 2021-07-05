@@ -25,5 +25,7 @@ Sl. No | Data | Source | Link
 17. | Historical data - Statistical Abstracts from 1840 | Digital South Asia Library, University of Chicago | [Link](https://dsal.uchicago.edu/statistics/)
 18. | COVID-19 cases, deaths, RT-PCR tests, vaccination, _etc_ | COVID-19 India API | [Link](https://api.covid19india.org/)
 19. | Socio-Economic Caste Census | Ministry of Rural Development, GOI | [Link](https://secc.gov.in/welcome)
+20. | Global Food Prices (72 countries, 1500 markets since 2003) | World Food Programme | [Link](https://data.humdata.org/dataset/wfp-food-prices)
+21. | Milk production, availability, livestock population, share in GDP,  _etc_ | NDDB | [Link](https://www.nddb.coop/information/stats)
 
 [How to create a personal website in GitHub?](https://www.youtube.com/watch?v=qZsgPgGdOzQ&t=836s)
