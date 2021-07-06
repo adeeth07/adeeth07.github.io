@@ -35,4 +35,8 @@ Sl. No | Data | Source | Link
 27. | Global Trade | UNComtrade Database | [Link](https://comtrade.un.org/)
 28. | District and block level weather prediction | IMD | [Link](https://nwp.imd.gov.in/blf/blf_temp/)
 
+## 2. Literature reviews ##
+1. [Annual Reviews](https://www.annualreviews.org/)
+2. [VoxDevLit](https://voxdev.org/voxdevlit)
+
 [How to create a personal website in GitHub?](https://www.youtube.com/watch?v=qZsgPgGdOzQ&t=836s)
