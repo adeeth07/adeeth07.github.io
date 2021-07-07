@@ -17,7 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:
   - {title: "CV", url: "/CV.pdf"}
-  - {title: "Published Research", file: "latest.md"}
+  - {title: "Journal Articles", file: "latest.md"}
   - {title: "Working Papers", file: "wp.md"}
   - {title: "Research Resources", file: "more.md"}
 
