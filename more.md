@@ -40,6 +40,20 @@ Sl. No | Data | Source | Link
 2. [VoxDevLit](https://voxdev.org/voxdevlit)
 
 ## 3. Search engines for literature review ##
+1. [Google Scholar](https://scholar.google.co.in/)
+2. [REPEC](https://ideas.repec.org/search.html)
+3. [AgEcon](https://ageconsearch.umn.edu/?ln=en)
+4. [publons](https://publons.com/search/)
+5. [SSRN](https://www.ssrn.com/index.cfm/en/)
+6. [ScienceDirect](https://www.sciencedirect.com/)
+7. [Wiley Online Library](https://onlinelibrary.wiley.com/)
+8. [Oxford Academic](https://academic.oup.com/journals)
+9. [Taylor & Francis Online](https://www.tandfonline.com/)
+10. [SAGE Journals](https://journals.sagepub.com/)
+11. [Emerald Insight](https://www.emerald.com/insight/)
+12. [Cornell University Library](https://www.library.cornell.edu/research/introduction/articles)
+13. [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+14. [Nature](https://www.nature.com/)
 
 
 [How to create a personal website in GitHub?](https://www.youtube.com/watch?v=qZsgPgGdOzQ&t=836s)
