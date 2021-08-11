@@ -6,7 +6,7 @@ title: "Research Resources for Agricultural Economists"
 
 Sl. No | Data | Source | Link 
 ------------ | ------------- | ------------ | -------------
-1. | Wholesale and retail prices of essential commodities | Ministry of Consumer  Affairs,  Food  and  Public  Distribution,  GOI | [Link](https://fcainfoweb.nic.in/reports/report_menu_web.aspx)
+1. | Wholesale and retail prices of essential commodities | Ministry of Consumer  Affairs,  Food  and  Public  Distribution,  GOI and RPS, DES | [Link1](https://fcainfoweb.nic.in/reports/report_menu_web.aspx) [Link2](https://rpms.dacnet.nic.in/QueryReport.aspx)
 2. | Consumer Price Index | Ministry of Statistics and Programme Implementation , GOI | [Link](http://164.100.34.62:8080/Default1.aspx)
 3. | Wholesale Price Index | Ministry OF Commerce & Industry, GOI | [Link](https://eaindustry.nic.in/wpi_press_release_archive.asp)
 4. | Prices and arrivals in wholesale markets | AGMARKNET | [Link](https://agmarknet.gov.in/Default.aspx)
