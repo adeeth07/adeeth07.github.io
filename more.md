@@ -37,6 +37,7 @@ Sl. No | Data | Source | Link
 29. | Agricultural Census and Input Survey (1970-71 to 2015-16) | MoA&FW | [Link](http://agcensus.nic.in/)
 30. | India Working in Numbers - Employment and Unemployment, earnings and productivity, COVID-19 livelihood survey, Quality of work, social identitites, _etc_ | Centre for Sustainable Employment, Azim Premji University | [Link](https://cse.azimpremjiuniversity.edu.in/india-working-in-numbers/)
 31. | Agricultural Science and Technology Indicators (ASTI) - Data on Agricultural R&D, no. of researchers per lakh of farmers, _etc_ | ASTI IFPRI | [Link](https://www.asti.cgiar.org/)
+32. | Global Animal Disease Information System (Empres-i) | FAO | [Link](http://empres-i.fao.org/eipws3g/#h=0)
 
 ## 2. Literature reviews ##
 1. [Annual Reviews](https://www.annualreviews.org/)
