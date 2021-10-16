@@ -38,6 +38,7 @@ Sl. No | Data | Source | Link
 30. | India Working in Numbers - Employment and Unemployment, earnings and productivity, COVID-19 livelihood survey, Quality of work, social identitites, _etc_ | Centre for Sustainable Employment, Azim Premji University | [Link](https://cse.azimpremjiuniversity.edu.in/india-working-in-numbers/)
 31. | Agricultural Science and Technology Indicators (ASTI) - Data on Agricultural R&D, no. of researchers per lakh of farmers, _etc_ | ASTI IFPRI | [Link](https://www.asti.cgiar.org/)
 32. | Global Animal Disease Information System (Empres-i) | FAO | [Link](http://empres-i.fao.org/eipws3g/#h=0)
+33. | World Inequality Database - historical evolution of the world distribution of income and wealth, both within countries and between countries | The World Inequality Lab and Database | [Link](https://wid.world/)
 
 ## 2. Literature reviews ##
 1. [Annual Reviews](https://www.annualreviews.org/)
