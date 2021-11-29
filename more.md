@@ -40,6 +40,7 @@ Sl. No | Data | Source | Link
 32. | Global Animal Disease Information System (Empres-i) | FAO | [Link](http://empres-i.fao.org/eipws3g/#h=0)
 33. | World Inequality Database - historical evolution of the world distribution of income and wealth, both within countries and between countries | The World Inequality Lab and Database | [Link](https://wid.world/)
 34. | Energy subsidies, energy access and fire incidences in Punjab | Council on energy, environment and water (CEEW) | [Link](https://www.ceew.in/data)
+35. | Replication data and codes of published studies and surveys (mostly RCTs) | Harvard Dataverse | [Link](https://dataverse.harvard.edu/dataverse/DFEEP)
 
 ## 2. Literature reviews ##
 1. [Annual Reviews](https://www.annualreviews.org/)
