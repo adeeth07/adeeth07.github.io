@@ -42,7 +42,7 @@ Sl. No | Data | Source | Link
 34. | Energy subsidies, energy access and fire incidences in Punjab | Council on energy, environment and water (CEEW) | [Link](https://www.ceew.in/data)
 35. | Replication data and codes of published studies and surveys (mostly RCTs) | Harvard Dataverse | [Link](https://dataverse.harvard.edu/dataverse/DFEEP)
 36. | Datasets on election results, political parties, questions & answers asked in the parliament, ministers, bureaucrats,etc | Trivedi Centre for Political Data | [Link](https://tcpd.ashoka.edu.in/data/)
-37. | Number of SHGs and its members under NRLM | Ministry of Rural Development | [Link](https://nrlm.gov.in/shgOuterReports.do?methodName=showShgreport&encd=null&srtnm=null&reqtrack=GD3kyUbl3iKbn24lrQilOeKEm)
+37. | Number of SHGs and its members under NRLM | Ministry of Rural Development | [Link](https://daynrlmbl.aajeevika.gov.in/)
 
 ## 2. Literature reviews ##
 1. [Annual Reviews](https://www.annualreviews.org/)
