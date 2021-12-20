@@ -6,7 +6,7 @@ title: "Latest research"
 
 Sl. No.| Title | Year | Journal | Link
 ------------ | ------------- | ------------ | ------------- | -------------
-1. | COVID-19 induced lockdown effects on agricultural commodity prices and consumer behaviour in India – Implications for food loss and waste management | 2021 | Socio-Economic Planning Sciences | [Open access](https://authors.elsevier.com/c/1dujp_tK9vPuu)
+1. | COVID-19 induced lockdown effects on agricultural commodity prices and consumer behaviour in India – Implications for food loss and waste management | 2021 | Socio-Economic Planning Sciences | [Open access](https://doi.org/10.1016/j.seps.2021.101160)
 2. | Contract Farming: Success Story of a Dairy Entrepreneur in Haryana| 2021 | Indian Dairyman | [Open access](https://www.researchgate.net/publication/353769653_Contract_Farming_Success_Story_of_a_Dairy_Entrepreneur_in_Haryana)
 3. | Impact of COVID-19 on the Indian agricultural system: A 10-point strategy for post-pandemic recovery | 2021 | Outlook on Agriculture | [Open access](https://journals.sagepub.com/doi/full/10.1177/0030727021989060)
 4. | Interlink between factor and product markets: opportunity for the future of Indian agriculture | 2020 | Agricultural Economics Research Review | [Open access](https://ageconsearch.umn.edu/record/310338?ln=en)
