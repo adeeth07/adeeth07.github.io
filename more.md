@@ -68,5 +68,15 @@ Sl. No | Data | Source | Link
 15. [International Initiative for Impact Evaluation](https://developmentevidence.3ieimpact.org/)
 16. [JPAL RCT Database](https://www.povertyactionlab.org/evaluations?search_api_fulltext=Credit&sector=All&intervention_type=All&country=All&status=All&region=All&target_group=All&outcome_of_interest=All)
 
+## 4. Teaching and learning resources for impact evaluation (mostly RCT) ##
+Sl. No | Source | Details
+------------ | ------------- | ------------
+1 | [J-PAL](https://www.povertyactionlab.org/research-resources?view=toc) | Research and Teaching Resources on almost everything on RCT (from pre-analysis plans, ethics, planning to analysis)
+2 | [Running Randomized Evaluations by Rachel Glennerster and Kudzai Takavarasha](http://runningres.com/) | Lecture notes, case studies, data and exercises
+3 | [World Bank Blogs](https://blogs.worldbank.org/impactevaluations/curated-list-our-postings-technical-topics-your-one-stop-shop-methodology) | One-Stop Shop for Methodology (RCT, PSM, DID, Synthetic control, Power calculation, Analysis, STATA codes, etc.)
+4 | [Handbook of Economic Field Experiments](https://www.sciencedirect.com/handbook/handbook-of-economic-field-experiments/volumes) | Sections on History and Methodology of RCT, Understanding Preferences and Preference Change, The Challenge of Improving Human Capital and Designing Effective Social Programs
+5 | [Impact Evaluation in Practice - Second Edition](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) | Book on impact evaluation covering RCTs, IV, RDD, DID, Matching and more
+
+
 [How to create a personal website in GitHub?](https://www.youtube.com/watch?v=qZsgPgGdOzQ&t=836s)
 
