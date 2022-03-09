@@ -77,6 +77,7 @@ Sl. No | Source | Details
 3 | [World Bank Blogs](https://blogs.worldbank.org/impactevaluations/curated-list-our-postings-technical-topics-your-one-stop-shop-methodology) | One-Stop Shop for Methodology (RCT, PSM, DID, Synthetic control, Power calculation, Analysis, STATA codes, etc.)
 4 | [Handbook of Economic Field Experiments](https://www.sciencedirect.com/handbook/handbook-of-economic-field-experiments/volumes) | Sections on History and Methodology of RCT, Understanding Preferences and Preference Change, The Challenge of Improving Human Capital and Designing Effective Social Programs
 5 | [Impact Evaluation in Practice - Second Edition](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) | Book on impact evaluation covering RCTs, IV, RDD, DID, Matching and more
+6 |[Difference-in-Difference (DiD) dedicated website by Asjad Naqvi](https://asjadnaqvi.github.io/DiD/) | Literature, videos, R & STATA packages, STATA codes and updates on DiD
 
 
 [How to create a personal website in GitHub?](https://www.youtube.com/watch?v=qZsgPgGdOzQ&t=836s)
