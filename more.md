@@ -79,6 +79,7 @@ Sl. No | Source | Details
 5 | [Impact Evaluation in Practice - Second Edition](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice) | Book on impact evaluation covering RCTs, IV, RDD, DID, Matching and more
 6 |[Difference-in-Difference (DiD) dedicated website by Asjad Naqvi](https://asjadnaqvi.github.io/DiD/) | Literature, videos, R & STATA packages, STATA codes and updates on DiD
 7 | [Causal Inference: The Mixtape by Scott Cunningham](https://mixtape.scunning.com/) | Book covering topics like DAGs, Potential Outcomes model, Matching, RDD, IV, Panel data, DID, Synthetic Control and statistical codes
+8 | [The Effect: An Introduction to Research Design and Causality by Nick Huntington-Klein](https://theeffectbook.net/) | Book with topics like research design, causal diagrams, front and back door criterions, treatment effects, regression, matching, fixed effects, simulation, DID, RDD, IV and event studies
 
 
 [How to create a personal website in GitHub?](https://www.youtube.com/watch?v=qZsgPgGdOzQ&t=836s)
