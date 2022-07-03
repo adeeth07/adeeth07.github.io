@@ -16,7 +16,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:
-  - {title: "CV", url: "/CV.pdf"}
+  - {title: "CV", url: "/CV_July.pdf"}
   - {title: "Journal Articles", file: "latest.md"}
   - {title: "Working Papers", file: "wp.md"}
   - {title: "Research Resources", file: "more.md"}
