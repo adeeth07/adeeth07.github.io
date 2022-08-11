@@ -6,7 +6,7 @@ title: "Latest research"
 
 Sl. No.| Title | Year | Journal | Link
 ------------ | ------------- | ------------ | ------------- | -------------
-1. | Do the prices of a preventive animal health product affect dairy farmers’ willingness to pay and product use? Evidence from an experimental study | 2022 | Journal of Behavioral and Experimental Economics | [Restricted access](https://doi.org/10.1016/j.socec.2022.101925) <object data="https://github.com/adeeth07/adeeth07.github.io/blob/master/Cariappa%20et%20al%202022_JBEE.pdf" width="1000" height="1000" type='application/pdf'></object>
+1. | Do the prices of a preventive animal health product affect dairy farmers’ willingness to pay and product use? Evidence from an experimental study | 2022 | Journal of Behavioral and Experimental Economics | [Restricted access](https://doi.org/10.1016/j.socec.2022.101925)
 2. | COVID-19 induced lockdown effect on wheat supply chain and prices in India – Insights from state interventions led resilience | 2022 | Socio-Economic Planning Sciences | [Open access](https://www.sciencedirect.com/science/article/pii/S0038012122001616) 
 3. | Dairy infrastructure development index: measuring regional inequalities across districts of Gujarat | 2022 | Indian Journal of Dairy Science | [Open access](https://www.researchgate.net/publication/358978731_Dairy_infrastructure_development_index_measuring_regional_inequalities_across_districts_of_Gujarat)
 4. | An introduction to randomized evaluations and its application in agricultural economics | 2021 | Agricultural Economics Research Review | [Open access](https://www.researchgate.net/publication/359414869_An_introduction_to_randomized_evaluations_and_its_application_in_agricultural_economics)
