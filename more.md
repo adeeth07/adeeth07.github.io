@@ -17,7 +17,7 @@ Sl. No | Data | Source | Link
 9. | Income, output, input and productivity of 183 countries from 1950 | Penn World Table | [Link](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
 10. | Emmissions, Trade, Inputs, Investments, _etc_ | FAOSTAT | [Link](http://www.fao.org/faostat/en/#data)
 11. | World Development Indicators | World Bank | [Link](https://databank.worldbank.org/source/world-development-indicators/Type/TABLE/preview/on)
-12. | Export and Import | Ministry OF Commerce & Industry, GOI | [Link](https://tradestat.commerce.gov.in/eidb/default.asp)
+12. | Export and Import | Ministry OF Commerce & Industry, GOI | [Link](https://tradestat.commerce.gov.in/eidb/default.asp) [APEDA](https://agriexchange.apeda.gov.in/inttrade/inttrade.aspx)
 13. | NSSO surveys | Ministry of Statistics and Programme Implementation , GOI and ICSSR | Register and Download at [National Data Archive](http://microdata.gov.in/nada43/index.php/catalog) and [ICSSR](http://www.icssrdataservice.in/)
 14. | Health and Nutrition | The Demographic and Health Surveys (DHS) Program | Register and Download at [Link](https://dhsprogram.com/)
 15. | District Level Database for Agriculture | ICRISAT-TCI | [Link](http://data.icrisat.org/dld/index.html)
@@ -44,6 +44,8 @@ Sl. No | Data | Source | Link
 36. | Datasets on election results, political parties, questions & answers asked in the parliament, ministers, bureaucrats,etc | Trivedi Centre for Political Data | [Link](https://tcpd.ashoka.edu.in/data/)
 37. | Number of SHGs and its members under NRLM | Ministry of Rural Development | [Link](https://daynrlmbl.aajeevika.gov.in/)
 38. | Area and Production Statistics of Agricultural and Horticultural crops| MoA&FW | [Link](https://aps.dac.gov.in/Home.aspx)
+39. | Annual and Quarterly Estimates of GDP, State Domestic Product and other aggregates | MoS&PI | [Link](https://www.mospi.gov.in/web/mospi/download-tables-data/-/reports/view/templateOne/16701?q=TBDCAT)
+40. | 
 
 ## 2. Literature reviews ##
 1. [Annual Reviews](https://www.annualreviews.org/)
