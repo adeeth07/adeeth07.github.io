@@ -45,7 +45,8 @@ Sl. No | Data | Source | Link
 37. | Number of SHGs and its members under NRLM | Ministry of Rural Development | [Link](https://daynrlmbl.aajeevika.gov.in/)
 38. | Area and Production Statistics of Agricultural and Horticultural crops| MoA&FW | [Link](https://aps.dac.gov.in/Home.aspx)
 39. | Annual and Quarterly Estimates of GDP, State Domestic Product and other aggregates | MoS&PI | [Link](https://www.mospi.gov.in/web/mospi/download-tables-data/-/reports/view/templateOne/16701?q=TBDCAT)
-40. | 
+40. | Published Indian government data from surveys to administrative data (all sectors - with maps) | NITI Aayog | [Link](https://ndap.niti.gov.in/)
+41. | Poverty, pollution, climate change, land, fertilizer and water use, etc. (all sectors - with maps) | Our World in Data | [Link](https://ourworldindata.org/about) 
 
 ## 2. Literature reviews ##
 1. [Annual Reviews](https://www.annualreviews.org/)
