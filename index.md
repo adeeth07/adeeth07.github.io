@@ -8,7 +8,7 @@ title: ""
 
 ## Bio ##
 
-  I'm working as an Young Professional in the [Agriculture and Allied Sectors Vertical](https://www.niti.gov.in/index.php/verticals/agriculture) of the [NITI Aayog](https://www.niti.gov.in/), New Delhi, an apex public policy think tank of the Government of India.
+  I'm working as a Young Professional in the [Agriculture and Allied Sectors Vertical](https://www.niti.gov.in/index.php/verticals/agriculture) of the [NITI Aayog](https://www.niti.gov.in/), New Delhi, an apex public policy think tank of the Government of India.
   
   I, recently, worked as a 'Consultant - Dairy Market' for the [Food and Agriculture Organization of the United Nations](https://www.fao.org/about/en/) under the project "Guidelines to increase the resilience of agricultural supply chains: Getting on the right track to stabilize production and markets".
   
