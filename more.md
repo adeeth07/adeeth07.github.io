@@ -46,7 +46,9 @@ Sl. No | Data | Source | Link
 38. | Area and Production Statistics of Agricultural and Horticultural crops| MoA&FW, GoI | [Link](https://aps.dac.gov.in/Home.aspx)
 39. | Annual and Quarterly Estimates of GDP, State Domestic Product and other aggregates | MoS&PI, GoI | [Link](https://www.mospi.gov.in/web/mospi/download-tables-data/-/reports/view/templateOne/16701?q=TBDCAT)
 40. | Published Indian government data from surveys to administrative data (all sectors - with maps) | NITI Aayog | [Link](https://ndap.niti.gov.in/)
-41. | Poverty, pollution, climate change, land, fertilizer and water use, etc. (all sectors - with maps) | Our World in Data | [Link](https://ourworldindata.org/about) 
+41. | Poverty, pollution, climate change, land, fertilizer and water use, etc. (all sectors - with maps) | Our World in Data | [Link](https://ourworldindata.org/about)
+42. | Database of national legislation, policies and bilateral agreements on food, agriculture and natural resources management | FAOLEX | [Link](https://www.fao.org/faolex/en/)
+43. | Commodity prices (Crude Oil, Natural Gas, Coffee, Tea, Rice, Palm oil, Soyabean, Banana, Orange, Beef, Meat, Sugar, Fertilizer and more) | World Bank | [Link](https://www.worldbank.org/en/research/commodity-markets)  
 
 ## 2. Literature reviews ##
 1. [Annual Reviews](https://www.annualreviews.org/)
