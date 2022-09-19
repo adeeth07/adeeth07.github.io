@@ -6,7 +6,7 @@ title: "Working papers"
 
 Sl. No | Title | Data and Methods | Link | Status
 ------------ | ------------- | ------------ | -------------
-1. | Prevention Is Better Than Cure: Experimental Evidence From Milk Fever Incidence in Dairy Animals of Haryana, India | RCT and DID | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851561) | Accepted for publication in [Agricultural Economics Research Review](http://aeraindia.in/journalaerr)
+1. | What do we know and not know about Contract Faming in India: Meta-analysis and Evidence gap mapping | Meta-analysis, Evidence gap map and Delphi analysis | - | -
 2. | Estimation of Economic Losses Due to Milk Fever and Efficiency Gains if Prevented: Evidence From Haryana, India | Secondary sources, survey and Economic Surplus model | [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3851567) | Under review in [Indian Journal of Animal Sciences](http://epubs.icar.org.in/ejournal/index.php/IJAnS)
 3. | Biofortification in Wheat: Research Progress, Potential Impact and Policy Imperatives | Meta-analysis, Bibliometric analysis, and Economic Surplus model | - | -
 4. | Impact of COVID-19 on Onion Prices and Volatility across Spatially Separated Markets of India: Evidence from Regression Discontinuity Design | RDiT and GARCH | - | Accepted for publication in [Indian Journal of Economics and Development](https://www.soed.in/)
