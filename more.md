@@ -48,7 +48,8 @@ Sl. No | Data | Source | Link
 40. | Published Indian government data from surveys to administrative data (all sectors - with maps) | NITI Aayog | [Link](https://ndap.niti.gov.in/)
 41. | Poverty, pollution, climate change, land, fertilizer and water use, etc. (all sectors - with maps) | Our World in Data | [Link](https://ourworldindata.org/about)
 42. | Database of national legislation, policies and bilateral agreements on food, agriculture and natural resources management | FAOLEX | [Link](https://www.fao.org/faolex/en/)
-43. | Commodity prices (Crude Oil, Natural Gas, Coffee, Tea, Rice, Palm oil, Soyabean, Banana, Orange, Beef, Meat, Sugar, Fertilizer and more) | World Bank | [Link](https://www.worldbank.org/en/research/commodity-markets)  
+43. | Commodity prices (Crude Oil, Natural Gas, Coffee, Tea, Rice, Palm oil, Soyabean, Banana, Orange, Beef, Meat, Sugar, Fertilizer and more) | World Bank | [Link](https://www.worldbank.org/en/research/commodity-markets)
+44. | India Drought Monitor - real-time drought condition and forecast | IIT Gandhinagar | [Link](https://india-drought-monitor.github.io/IDM/index.html)  
 
 ## 2. Literature reviews ##
 1. [Annual Reviews](https://www.annualreviews.org/)
