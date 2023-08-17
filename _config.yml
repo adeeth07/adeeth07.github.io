@@ -17,7 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:
   - {title: "CV", url: "/CV.pdf"}
-  - {title: "Journal Articles", file: "latest.md"}
+  - {title: "Articles", file: "latest.md"}
   - {title: "Working Papers", file: "wp.md"}
   - {title: "Research Resources", file: "more.md"}
 
@@ -27,6 +27,7 @@ external:                  # see http://fontawesome.com/icons
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/A-G-Cariappa"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/a-g-adeeth-cariappa-550b7b15a/"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0001-8920-1586"}
+  - {title: Scholar, icon: google, url: "https://scholar.google.co.in/citations?user=qMcgmwIAAAAJ&hl=en"}
 
 
 comments:
