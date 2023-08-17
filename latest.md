@@ -2,7 +2,12 @@
 layout: page
 title: "Latest research"
 ---
-# Latest journal articles #
+# Research in CIMMYT #
+Sl. No.| Title | Year | Outlet | Link
+------------ | ------------- | ------------ | ------------- | -------------
+1. | Milking the cash cow with carbon credits | 2023 | The Tribune | [Open access](https://www.tribuneindia.com/news/features/milking-the-cash-cow-with-carbon-credits-534945)
+
+# Before CIMMYT #
 
 Sl. No.| Title | Year | Journal | Link
 ------------ | ------------- | ------------ | ------------- | -------------
