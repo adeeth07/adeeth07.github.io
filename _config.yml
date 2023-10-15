@@ -1,0 +1,38 @@
+title: "Arshdeep Singh Khosa"
+author: "Arshdeep Singh Khosa"
+description: "Agricultural Economics"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_social: true          # show site description and social links in the footer
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true          # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:
+  - {title: "CV", url: "/CV.pdf"}
+  - {title: "Articles", file: "latest.md"}
+  - {title: "Working Papers", file: "wp.md"}
+  - {title: "Research Resources", file: "more.md"}
+
+external:                  # see http://fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:arshdeep.singh.khosa1@gmail.com"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/Arshdeepkhosa05"}
+  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Arshdeep-Singh-Khosa-2"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/arshdeep-singh-khosa-04294911b/"}
+  - {title: ORCID, icon: orcid, url: "https://orcid.org/0000-0003-1588-8105"}
+  - {title: Scholar, icon: google, url: "https://scholar.google.com/citations?user=2th48MoAAAAJ&hl=en"}
+
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
