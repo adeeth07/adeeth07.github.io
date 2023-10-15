@@ -2,8 +2,8 @@
 layout: page
 title: ""
 ---
-<p align="center">
-  <img width="320" height="200" src="20210313_115737.jpg">
+<p align="left">
+  <img width="80" height="100" src="20210313_115737.jpg">
 </p>
 
 ## Bio ##
