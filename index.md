@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 <p align="left">
-  <img width="170" height="280" src="20210313_115737.jpg">
+  <img width="200" height="280" src="20210313_115737.jpg">
 </p>
 
 ## Bio ##
