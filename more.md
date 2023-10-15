@@ -90,5 +90,3 @@ Sl. No | Source | Details
 8 | [The Effect: An Introduction to Research Design and Causality by Nick Huntington-Klein](https://theeffectbook.net/) | Book with topics like research design, causal diagrams, front and back door criterions, treatment effects, regression, matching, fixed effects, simulation, DID, RDD, IV and event studies
 
 
-[How to create a personal website in GitHub?](https://www.youtube.com/watch?v=qZsgPgGdOzQ&t=836s)
-
