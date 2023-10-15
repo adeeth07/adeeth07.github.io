@@ -11,4 +11,4 @@ title: "Latest research"
 # Book chapters #
 
 Sl. No.| Authors |Title | Year | Outlet | Link
-### More in [Google Scholar](https://scholar.google.com/citations?user=2th48MoAAAAJ&hl=en), [IDEAS/REPEC](https://ideas.repec.org/f/pca4.html) and [SSRN](https://privpapers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=470) ###
+### More in [Google Scholar](https://scholar.google.com/citations?user=2th48MoAAAAJ&hl=en), [IDEAS/REPEC](https://ideas.repec.org/f/psi1088.html) and [SSRN](https://privpapers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=470) ###
