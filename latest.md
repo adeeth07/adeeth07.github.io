@@ -8,6 +8,7 @@ Sl. No.| Title | Year | Outlet | Link
 ------------ | ------------- | ------------ | ------------- | -------------
 1. | Understanding carbon credits from agriculture | 2023 | AESA | [Open access](https://cgspace.cgiar.org/handle/10568/132461)
 2. | Milking the cash cow with carbon credits | 2023 | The Tribune | [Open access](https://www.tribuneindia.com/news/features/milking-the-cash-cow-with-carbon-credits-534945)
+3. | Farming carbon credits | 2023 | The Hindu Businessline | [Restricted access](https://www.thehindubusinessline.com/opinion/farming-carbon-credits/article67559222.ece) [Open access](https://www.researchgate.net/publication/375861068_Farming_carbon_credits)
 
 # Before CIMMYT #
 
