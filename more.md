@@ -77,7 +77,7 @@ Sl. No | Data | Source | Link
 16. [JPAL RCT Database](https://www.povertyactionlab.org/evaluations?search_api_fulltext=Credit&sector=All&intervention_type=All&country=All&status=All&region=All&target_group=All&outcome_of_interest=All)
 
 ## 4. Methods and ways to download paper for free
-1. Download Unpaywall: www.unpaywall.org
+1. Journal articles download by installing the extension chrome "unpaywall: www.unpaywall.org"
 2. supplementary file download from sciencedirect: https://ars.els-cdn.com/content/image/1-s2.0-S0378377422000105-mmc1.docx
 
 ## 5. Teaching and learning resources for impact evaluation (mostly RCT) ##
