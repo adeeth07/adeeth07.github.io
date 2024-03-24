@@ -13,7 +13,7 @@ Sl. No | Data | Source | Link
 5. | Producer and Consumer Support Estimates | OECD | [Link](https://data.oecd.org/agrpolicy/agricultural-support.htm)
 6. | Temperature and Rainfall | Climate Change Knowledge Portal, World Bank Group | [Link](https://climateknowledgeportal.worldbank.org/download-data)
 7. | Banking, Budget, GDP, Exchange rate, Key rates, _etc_ | Database on Indian Economy, RBI | [Link](https://dbie.rbi.org.in/DBIE/dbie.rbi?site=home)
-8. | Land Use, Crop production, Area under production, Cost of Cultivation, Farm Harvest Prices, Agricultural Wages, MSP | Directorate of Economics and Statistics, MoA&FW, GoI | [Link](https://eands.dacnet.nic.in/)
+8. | Land Use, Crop production, Area under production, Cost of Cultivation, Farm Harvest Prices, Agricultural Wages, MSP | Directorate of Economics and Statistics, MoA&FW, GoI | [Link 1](https://desagri.gov.in/) [Link 2](https://aps.dac.gov.in/APY/Index.htm)
 9. | Income, output, input and productivity of 183 countries from 1950 | Penn World Table | [Link](https://www.rug.nl/ggdc/productivity/pwt/?lang=en)
 10. | Emmissions, Trade, Inputs, Investments, _etc_ | FAOSTAT | [Link](http://www.fao.org/faostat/en/#data)
 11. | World Development Indicators | World Bank | [Link](https://databank.worldbank.org/source/world-development-indicators/Type/TABLE/preview/on)
@@ -52,6 +52,7 @@ Sl. No | Data | Source | Link
 44. | India Drought Monitor - real-time drought condition and forecast | IIT Gandhinagar | [Link](https://india-drought-monitor.github.io/IDM/index.html)
 45. | National Food Security Mission - progress of sowings, minutes of the meetings, presentations, maps, evaluations etc. | MoA&FW | [Link](https://www.nfsm.gov.in/Default.aspx)
 46. | Indian maps and shape files (state, district, taluk and village boundaries) | Survey of India, MoS&T | [Link](https://onlinemaps.surveyofindia.gov.in/Digital_Product_Show.aspx)
+47. | Centralized hub for near real time information on crop production, market trends, pricing, and other vital agricultural data | Unified Portal for Agricultural Statistics (UPAg) | [Link](https://upag.gov.in/)
 
 ## 2. Literature reviews ##
 1. [Annual Reviews](https://www.annualreviews.org/)
