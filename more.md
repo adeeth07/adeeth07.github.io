@@ -51,6 +51,7 @@ Sl. No | Data | Source | Link
 43. | National Food Security Mission - progress of sowings, minutes of the meetings, presentations, maps, evaluations etc. | MoA&FW | [Link](https://www.nfsm.gov.in/Default.aspx)
 44. | Indian maps and shape files (state, district, taluk and village boundaries) | Survey of India, MoS&T | [Link](https://onlinemaps.surveyofindia.gov.in/Digital_Product_Show.aspx)
 45. | Centralized hub for near real time information on crop production, market trends, pricing, and other vital agricultural data | Unified Portal for Agricultural Statistics (UPAg) | [Link](https://upag.gov.in/)
+46. | Livestock emission data at regional level | GLEAM dashboard - FAO | [Link](https://foodandagricultureorganization.shinyapps.io/GLEAMV3_Public/)
 
 ## 2. Literature reviews ##
 1. [Annual Reviews](https://www.annualreviews.org/)
