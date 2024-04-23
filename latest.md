@@ -6,7 +6,7 @@ title: "Latest research"
 
 Sl. No.| Title | Year | Outlet | Link
 ------------ | ------------- | ------------ | ------------- | -------------
-1. | Evaluating the Potential and Eligibility of Conservation Agriculture Practices for Carbon Credits | 2024 | Scientific Reports | Forthcoming
+1. | Evaluating the Potential and Eligibility of Conservation Agriculture Practices for Carbon Credits | 2024 | Scientific Reports | [Open access](https://www.nature.com/articles/s41598-024-59262-6)
 2. | Shaping India's climate future: A perspective on harnessing carbon credits from agriculture | 2024 | Outlook on Agriculture | [Restricted access](https://doi.org/10.1177/00307270241240778)
 3. | Understanding carbon credits from agriculture | 2023 | AESA | [Open access](https://cgspace.cgiar.org/handle/10568/132461) 
 4. | Milking the cash cow with carbon credits | 2023 | The Tribune | [Open access](https://www.tribuneindia.com/news/features/milking-the-cash-cow-with-carbon-credits-534945)
