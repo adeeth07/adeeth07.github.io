@@ -93,4 +93,12 @@ Sl. No | Source | Details
 7 | [Causal Inference: The Mixtape by Scott Cunningham](https://mixtape.scunning.com/) | Book covering topics like DAGs, Potential Outcomes model, Matching, RDD, IV, Panel data, DID, Synthetic Control and statistical codes
 8 | [The Effect: An Introduction to Research Design and Causality by Nick Huntington-Klein](https://theeffectbook.net/) | Book with topics like research design, causal diagrams, front and back door criterions, treatment effects, regression, matching, fixed effects, simulation, DID, RDD, IV and event studies
 
+## 6. Research grant sites
+1. https://cfhfoundation.grantsmanagement08.com/
+2. https://community.youth4climate.info/callforsolutions2024/instructions
+3. https://www.ccacoalition.org/calls-for-proposals/2024-call-innovative-projects-slcp-emitting-sectors/call-proposals-innovation-projects-agriculture-sector
+4. https://gfi.org/researchgrants/#research-grant-program
+5. https://azimpremjifoundation.org/content/call-applications-early-stage-csos
+6. https://www.fsnnetwork.org/prowashandscale/smallgrants_ARA3
+7. https://climatetrackerlatam.org/oportunidades/sexto-ciclo-del-programa-de-mentorias/
 
