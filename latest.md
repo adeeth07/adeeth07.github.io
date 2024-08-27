@@ -6,7 +6,7 @@ title: "Latest research"
 
 **Sl. No.| Year | Title | Outlet | Link**
 ----------|-------|--------|---------|--------
-1.|2024|Examining the Impact of Climate Change on Cereal Production in India: Empirical evidence from ARDL modelling approach| Heliyon|[restricted access](https://doi.org/10.1016/j.heliyon.2024.e36403))
+1.|2024|Examining the Impact of Climate Change on Cereal Production in India: Empirical evidence from ARDL modelling approach| Heliyon| [open access](https://doi.org/10.1016/j.heliyon.2024.e36403))
 2.|2024|Farm Labour Productivity of Major Crops of Punjab| Journal of Agricultural Development and Policy| [open access](https://www.isadp.in/journal_article/264)
 3.|2024|Decomposition Analysis of Maize Production Trends in India: A State-wise Profile|Indian Journal of Economics and Development|[restricted access](https://doi.org/10.35716/IJED-24094)
 4.|2024|An analysis of long-term and short-term impact of climate change on rice production in India|China Agricultural Economic Review|[open access](https://www.emerald.com/insight/content/doi/10.1108/CAER-07-2023-0179/full/html)
