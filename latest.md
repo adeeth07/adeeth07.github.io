@@ -6,7 +6,7 @@ title: "Latest research"
 
 Sl. No.| Title | Year | Outlet | Link
 ------------ | ------------- | ------------ | ------------- | -------------
-1. | Seed Market Dynamics and Diffusion of Improved Wheat Varieties in Bihar, India: A Supply-Side Perspective | 2024 | Agricultural and Food Economics | Forthcoming
+1. | Seed Market Dynamics and Diffusion of Improved Wheat Varieties in Bihar, India: A Supply-Side Perspective | 2024 | Agricultural and Food Economics | [Open access](https://link.springer.com/article/10.1186/s40100-024-00330-w)
 2. | Carbon Farming in India: Are the Existing Projects Inclusive, Additional, and Permanent? | 2024 | Climate Policy | [Open access](https://www.tandfonline.com/doi/full/10.1080/14693062.2024.2416497)
 3. | Towards a Robust Voluntary Carbon Market for Agriculture in India | 2024 | Economic & Political Weekly | Forthcoming
 4. | Evaluating the Potential and Eligibility of Conservation Agriculture Practices for Carbon Credits | 2024 | Scientific Reports | [Open access](https://www.nature.com/articles/s41598-024-59262-6)
