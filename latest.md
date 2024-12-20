@@ -6,15 +6,17 @@ title: "Latest research"
 
 Sl. No.| Title | Year | Outlet | Link
 ------------ | ------------- | ------------ | ------------- | -------------
-1. | Seed Market Dynamics and Diffusion of Improved Wheat Varieties in Bihar, India: A Supply-Side Perspective | 2024 | Agricultural and Food Economics | [Open access](https://link.springer.com/article/10.1186/s40100-024-00330-w)
-2. | Carbon Farming in India: Are the Existing Projects Inclusive, Additional, and Permanent? | 2024 | Climate Policy | [Open access](https://www.tandfonline.com/doi/full/10.1080/14693062.2024.2416497)
-3. | Towards a Robust Voluntary Carbon Market for Agriculture in India | 2024 | Economic & Political Weekly | Forthcoming
-4. | Evaluating the Potential and Eligibility of Conservation Agriculture Practices for Carbon Credits | 2024 | Scientific Reports | [Open access](https://www.nature.com/articles/s41598-024-59262-6)
-5. | Shaping India's climate future: A perspective on harnessing carbon credits from agriculture | 2024 | Outlook on Agriculture | [Open access](https://doi.org/10.1177/00307270241240778)
-6. | Understanding carbon credits from agriculture | 2023 | AESA | [Open access](https://cgspace.cgiar.org/handle/10568/132461) 
-7. | Milking the cash cow with carbon credits | 2023 | The Tribune | [Open access](https://www.tribuneindia.com/news/features/milking-the-cash-cow-with-carbon-credits-534945)
-8. | Farming carbon credits | 2023 | The Hindu Businessline | [Restricted access](https://www.thehindubusinessline.com/opinion/farming-carbon-credits/article67559222.ece) [Open access](https://www.researchgate.net/publication/375861068_Farming_carbon_credits)
-9. | Carbon farming in India: Case studies from Maharashtra and Telangana | 2023 | CGIAR | [Open access](https://cgspace.cgiar.org/handle/10568/134967)
+
+1. | Strengthening the roots of an agri-carbon market | 2024 | The Hindu | [Restricted access](https://www.thehindu.com/opinion/op-ed/strengthening-the-roots-of-an-agri-carbon-market/article69001526.ece) [Open access](https://www.researchgate.net/publication/387219223_Op-ed_Strengthening_the_roots_of_an_agri-carbon_market_in_The_Hindu)
+2. | Seed Market Dynamics and Diffusion of Improved Wheat Varieties in Bihar, India: A Supply-Side Perspective | 2024 | Agricultural and Food Economics | [Open access](https://link.springer.com/article/10.1186/s40100-024-00330-w)
+3. | Carbon Farming in India: Are the Existing Projects Inclusive, Additional, and Permanent? | 2024 | Climate Policy | [Open access](https://www.tandfonline.com/doi/full/10.1080/14693062.2024.2416497)
+4. | Towards a Robust Voluntary Carbon Market for Agriculture in India | 2024 | Economic & Political Weekly | Forthcoming
+5. | Evaluating the Potential and Eligibility of Conservation Agriculture Practices for Carbon Credits | 2024 | Scientific Reports | [Open access](https://www.nature.com/articles/s41598-024-59262-6)
+6. | Shaping India's climate future: A perspective on harnessing carbon credits from agriculture | 2024 | Outlook on Agriculture | [Open access](https://doi.org/10.1177/00307270241240778)
+7. | Understanding carbon credits from agriculture | 2023 | AESA | [Open access](https://cgspace.cgiar.org/handle/10568/132461) 
+8. | Milking the cash cow with carbon credits | 2023 | The Tribune | [Open access](https://www.tribuneindia.com/news/features/milking-the-cash-cow-with-carbon-credits-534945)
+9. | Farming carbon credits | 2023 | The Hindu Businessline | [Restricted access](https://www.thehindubusinessline.com/opinion/farming-carbon-credits/article67559222.ece) [Open access](https://www.researchgate.net/publication/375861068_Farming_carbon_credits)
+10. | Carbon farming in India: Case studies from Maharashtra and Telangana | 2023 | CGIAR | [Open access](https://cgspace.cgiar.org/handle/10568/134967)
    
 
 # Before CIMMYT #
