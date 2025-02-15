@@ -8,13 +8,13 @@ title: ""
 
 ## Bio ##
 
-  I'm working as a Post-Doctoral Fellow - Environmental and Resource Economist in the Sustainable Agrifood Systems (SAS) Program of [International Maize and Wheat Improvement Center (CIMMYT)](https://www.cimmyt.org/). I am based at the CIMMYT office in ICRISAT Campus, Hyderabad, India.
+  I am an Associate Scientist – Environmental and Resource Economist in the Sustainable Agrifood Systems (SAS) Program at the [International Maize and Wheat Improvement Center (CIMMYT)](https://www.cimmyt.org/), based at the CIMMYT office on the ICRISAT campus in Hyderabad, India.
   
-  Previously, I was working as a Young Professional in the [Agriculture and Allied Sectors Vertical](https://www.niti.gov.in/index.php/verticals/agriculture) of the [NITI Aayog](https://www.niti.gov.in/), New Delhi, an apex public policy think tank of the Government of India and as a 'Consultant - Dairy Market' for the [Food and Agriculture Organization of the United Nations](https://www.fao.org/about/en/) under the project "Guidelines to increase the resilience of agricultural supply chains: Getting on the right track to stabilize production and markets".
+  Previously, I worked as a Post-Doctoral Fellow – Environmental and Resource Economist at CIMMYT for two years. Before that, I was a Young Professional in the [Agriculture and Allied Sectors Vertical](https://www.niti.gov.in/index.php/verticals/agriculture) of the [NITI Aayog](https://www.niti.gov.in/), the Government of India's apex public policy think tank. I also served as a Consultant – Dairy Market for the [Food and Agriculture Organization of the United Nations](https://www.fao.org/about/en/) under the project "Guidelines to increase the resilience of agricultural supply chains: Getting on the right track to stabilize production and markets".
   
-  I received a Ph.D degree from the [ICAR - National Dairy Research Institute](http://ndri.res.in/), Karnal, HR, India. The title of my Ph.D. thesis was [Impact evaluation of anionic mineral mixture supplementation on milk production and the milk fever: A randomized controlled trial](https://www.socialscienceregistry.org/trials/5108). I received a B. Sc. (Agriculture) degree from University of Agricultural Sciences, Bengaluru, KA in 2012 and an M. Sc. (Agri) in Agricultural Economics from University of Agricultural Sciences, Raichur, KA in 2016.
-   
-  My research interests include impact evaluation, agricultural markets and its interlink, agricultural finance, livestock and dairy economics, carbon markets and agricultural policy evaluation.
+  I hold a Ph.D. from the ICAR - National Dairy Research Institute, Karnal, Haryana, India. My doctoral research focused on the Impact Evaluation of Anionic Mineral Mixture Supplementation on Milk Production and Milk Fever: A Randomized Controlled Trial (link). I earned a B.Sc. (Agriculture) from the University of Agricultural Sciences, Bengaluru (2012), and an M.Sc. (Agri) in Agricultural Economics from the University of Agricultural Sciences, Raichur (2016).
+
+  My research focuses on the economics of carbon farming, agricultural carbon credit markets, and sustainable agriculture. I examine the financial viability of carbon crediting projects in India, assessing their impact on greenhouse gas emissions, farm incomes, and socio-economic inclusivity​​​. I am particularly interested in the trade-offs between agricultural productivity and emissions reduction​, as well as policies that enhance the effectiveness and fairness of carbon markets​. My work also explores strategies for optimizing cropping systems to reduce emissions intensity while maintaining food security and rural livelihoods​.
 
 
 
