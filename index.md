@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 <p align="center">
-  <img width="420" height="300" src="unnamed.jpg">
+  <img width="300" height="420" src="DSD_7792.JPG">
 </p>
 
 ## Bio ##
