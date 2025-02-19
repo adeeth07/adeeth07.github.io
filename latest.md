@@ -6,10 +6,10 @@ title: "Latest research"
 
 Sl. No.| Title | Year | Outlet | Link
 ------------ | ------------- | ------------ | ------------- | -------------
-1. | Strengthening the roots of an agri-carbon market | 2024 | The Hindu | [Restricted access](https://www.thehindu.com/opinion/op-ed/strengthening-the-roots-of-an-agri-carbon-market/article69001526.ece) [Open access](https://www.researchgate.net/publication/387219223_Op-ed_Strengthening_the_roots_of_an_agri-carbon_market_in_The_Hindu)
-2. | Seed Market Dynamics and Diffusion of Improved Wheat Varieties in Bihar, India: A Supply-Side Perspective | 2024 | Agricultural and Food Economics | [Open access](https://link.springer.com/article/10.1186/s40100-024-00330-w)
-3. | Carbon Farming in India: Are the Existing Projects Inclusive, Additional, and Permanent? | 2024 | Climate Policy | [Open access](https://www.tandfonline.com/doi/full/10.1080/14693062.2024.2416497)
-4. | Towards a Robust Voluntary Carbon Market for Agriculture in India | 2024 | Economic & Political Weekly | Forthcoming
+1. | Towards a Robust Voluntary Carbon Market for Agriculture in India | 2025 | Economic & Political Weekly | [Restricted access](https://www.epw.in/journal/2025/7/commentary/towards-robust-voluntary-carbon-market-agriculture.html)
+2. | Strengthening the roots of an agri-carbon market | 2024 | The Hindu | [Restricted access](https://www.thehindu.com/opinion/op-ed/strengthening-the-roots-of-an-agri-carbon-market/article69001526.ece) [Open access](https://www.researchgate.net/publication/387219223_Op-ed_Strengthening_the_roots_of_an_agri-carbon_market_in_The_Hindu)
+3. | Seed Market Dynamics and Diffusion of Improved Wheat Varieties in Bihar, India: A Supply-Side Perspective | 2024 | Agricultural and Food Economics | [Open access](https://link.springer.com/article/10.1186/s40100-024-00330-w)
+4. | Carbon Farming in India: Are the Existing Projects Inclusive, Additional, and Permanent? | 2024 | Climate Policy | [Open access](https://www.tandfonline.com/doi/full/10.1080/14693062.2024.2416497)
 5. | Evaluating the Potential and Eligibility of Conservation Agriculture Practices for Carbon Credits | 2024 | Scientific Reports | [Open access](https://www.nature.com/articles/s41598-024-59262-6)
 6. | Shaping India's climate future: A perspective on harnessing carbon credits from agriculture | 2024 | Outlook on Agriculture | [Open access](https://doi.org/10.1177/00307270241240778)
 7. | Understanding carbon credits from agriculture | 2023 | AESA | [Open access](https://cgspace.cgiar.org/handle/10568/132461) 
