@@ -6,7 +6,7 @@ title: "Latest research"
 
 Sl. No.| Title | Year | Outlet | Link
 ------------ | ------------- | ------------ | ------------- | -------------
-1. | Towards a Robust Voluntary Carbon Market for Agriculture in India | 2025 | Economic & Political Weekly | [Restricted access](https://www.epw.in/journal/2025/7/commentary/towards-robust-voluntary-carbon-market-agriculture.html) [Open access](Cariappa_2025_EPW_Towards a robust VCM.pdf)
+1. | Towards a Robust Voluntary Carbon Market for Agriculture in India | 2025 | Economic & Political Weekly | [Restricted access](https://www.epw.in/journal/2025/7/commentary/towards-robust-voluntary-carbon-market-agriculture.html) [Open access](adeeth07.github.io:master/Cariappa_2025_EPW_Towards a robust VCM.pdf)
 2. | The digital landscape in Eastern India: Findings from the digital needs assessment surveys from Bihar and Odisha, India | 2024 | CGIAR | [Open access](https://cgspace.cgiar.org/items/6fc0913b-28f5-42b9-8eac-bc98b0df0d37)
 3. | Strengthening the roots of an agri-carbon market | 2024 | The Hindu | [Restricted access](https://www.thehindu.com/opinion/op-ed/strengthening-the-roots-of-an-agri-carbon-market/article69001526.ece) [Open access](https://www.researchgate.net/publication/387219223_Op-ed_Strengthening_the_roots_of_an_agri-carbon_market_in_The_Hindu)
 4. | Seed Market Dynamics and Diffusion of Improved Wheat Varieties in Bihar, India: A Supply-Side Perspective | 2024 | Agricultural and Food Economics | [Open access](https://link.springer.com/article/10.1186/s40100-024-00330-w)
