@@ -53,6 +53,7 @@ Sl. No | Data | Source | Link
 45. | Centralized hub for near real time information on crop production, market trends, pricing, and other vital agricultural data | Unified Portal for Agricultural Statistics (UPAg) | [Link](https://upag.gov.in/)
 46. | Livestock emission data at regional level | GLEAM dashboard - FAO | [Link](https://foodandagricultureorganization.shinyapps.io/GLEAMV3_Public/)
 47. | Climate Projections for Indian Districts (2021-2040) | Azim Premji University | [Link](https://azimpremjiuniversity.edu.in/data-and-methods)
+48. | Border rejections in major global markets, Standards Compliance Comparison | United Nations Industrial Development Organization (UNIDO) | [Link](https://hub.unido.org/rejection-data/data-explorer)
 
 ## 2. Literature reviews ##
 1. [Annual Reviews](https://www.annualreviews.org/)
