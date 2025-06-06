@@ -18,4 +18,4 @@ title: ""
 
 
 
-![Visitor Count](https:​//profile-counter.glitch.me/{adeeth07.github.io}/count.svg)
+![](https://komarev.com/ghpvc/?username=adeeth07&color=green)
