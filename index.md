@@ -18,4 +18,4 @@ title: ""
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/https://adeeth07.github.io/count.svg)
+![Visitor Count](https:​//profile-counter.glitch.me/{adeeth07.github.io}/count.svg)
