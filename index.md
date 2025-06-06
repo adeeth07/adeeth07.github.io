@@ -18,4 +18,4 @@ title: ""
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fadeeth07.github.io&count_bg=%233DC8C7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+![Visitor Count](https://profile-counter.glitch.me/https://adeeth07.github.io/count.svg)
