@@ -6,20 +6,21 @@ title: "Latest research"
 
 Sl. No.| Title | Year | Outlet | Link
 ------------ | ------------- | ------------ | ------------- | -------------
-1. | Crop burning’s biodiversity crisis | 2025 | The Hindu Businessline | [Restricted access](https://www.thehindubusinessline.com/opinion/crop-burnings-biodiversity-crisis/article69906890.ece)  [Open access](https://www.researchgate.net/publication/394419299_Opinion_in_The_Hindu_BusinessLine_Biodiversity_Crisis)
-2. | Agrobiodiversity impacts matter in crop residue management policies | 2025 | CIMMYT Policy Brief | [Open access](https://hdl.handle.net/10883/35765)
-3. | Agroecological impacts of crop residue burning: A qualitative systematic review of direct and inferred evidence | 2025 | Science of The Total Environment | [Open access](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fc%2F1lPBmB8cd47VV/1/01020197ef82a515-b70d4841-1724-4048-83f8-e3db5d94383c-000000/2DUZHSJMjVQ-E_f3YSdgTUkA2_w=434)
-4. | Towards a Robust Voluntary Carbon Market for Agriculture in India | 2025 | Economic & Political Weekly | [Restricted access](https://www.epw.in/journal/2025/7/commentary/towards-robust-voluntary-carbon-market-agriculture.html) [Open access](https://raw.githubusercontent.com/adeeth07/adeeth07.github.io/master/assets/Cariappa_2025_EPW_Towards_a_robust_VCM.pdf)
-5. | The digital landscape in Eastern India: Findings from the digital needs assessment surveys from Bihar and Odisha, India | 2024 | CGIAR | [Open access](https://cgspace.cgiar.org/items/6fc0913b-28f5-42b9-8eac-bc98b0df0d37)
-6. | Strengthening the roots of an agri-carbon market | 2024 | The Hindu | [Restricted access](https://www.thehindu.com/opinion/op-ed/strengthening-the-roots-of-an-agri-carbon-market/article69001526.ece) [Open access](https://www.researchgate.net/publication/387219223_Op-ed_Strengthening_the_roots_of_an_agri-carbon_market_in_The_Hindu)
-7. | Seed Market Dynamics and Diffusion of Improved Wheat Varieties in Bihar, India: A Supply-Side Perspective | 2024 | Agricultural and Food Economics | [Open access](https://link.springer.com/article/10.1186/s40100-024-00330-w)
-8. | Carbon Farming in India: Are the Existing Projects Inclusive, Additional, and Permanent? | 2024 | Climate Policy | [Open access](https://www.tandfonline.com/doi/full/10.1080/14693062.2024.2416497)
-9. | Evaluating the Potential and Eligibility of Conservation Agriculture Practices for Carbon Credits | 2024 | Scientific Reports | [Open access](https://www.nature.com/articles/s41598-024-59262-6)
-10. | Shaping India's climate future: A perspective on harnessing carbon credits from agriculture | 2024 | Outlook on Agriculture | [Open access](https://doi.org/10.1177/00307270241240778)
-11. | Understanding carbon credits from agriculture | 2023 | AESA | [Open access](https://cgspace.cgiar.org/handle/10568/132461) 
-12. | Milking the cash cow with carbon credits | 2023 | The Tribune | [Open access](https://www.tribuneindia.com/news/features/milking-the-cash-cow-with-carbon-credits-534945)
-13. | Farming carbon credits | 2023 | The Hindu Businessline | [Restricted access](https://www.thehindubusinessline.com/opinion/farming-carbon-credits/article67559222.ece) [Open access](https://www.researchgate.net/publication/375861068_Farming_carbon_credits)
-14. | Carbon farming in India: Case studies from Maharashtra and Telangana | 2023 | CGIAR | [Open access](https://cgspace.cgiar.org/handle/10568/134967)
+1. | Ensure safeguards for India’s carbon market | 2025 | The Hindu | [Restricted access](https://www.thehindu.com/opinion/op-ed/ensure-safeguards-for-indias-carbon-market/article70171739.ece) [Open access](https://www.researchgate.net/publication/396788002_Comment_Ensure_safeguards_for_India's_carbon_market)
+2. | Crop burning’s biodiversity crisis | 2025 | The Hindu Businessline | [Restricted access](https://www.thehindubusinessline.com/opinion/crop-burnings-biodiversity-crisis/article69906890.ece)  [Open access](https://www.researchgate.net/publication/394419299_Opinion_in_The_Hindu_BusinessLine_Biodiversity_Crisis)
+3. | Agrobiodiversity impacts matter in crop residue management policies | 2025 | CIMMYT Policy Brief | [Open access](https://hdl.handle.net/10883/35765)
+4. | Agroecological impacts of crop residue burning: A qualitative systematic review of direct and inferred evidence | 2025 | Science of The Total Environment | [Open access](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fc%2F1lPBmB8cd47VV/1/01020197ef82a515-b70d4841-1724-4048-83f8-e3db5d94383c-000000/2DUZHSJMjVQ-E_f3YSdgTUkA2_w=434)
+5. | Towards a Robust Voluntary Carbon Market for Agriculture in India | 2025 | Economic & Political Weekly | [Restricted access](https://www.epw.in/journal/2025/7/commentary/towards-robust-voluntary-carbon-market-agriculture.html) [Open access](https://raw.githubusercontent.com/adeeth07/adeeth07.github.io/master/assets/Cariappa_2025_EPW_Towards_a_robust_VCM.pdf)
+6. | The digital landscape in Eastern India: Findings from the digital needs assessment surveys from Bihar and Odisha, India | 2024 | CGIAR | [Open access](https://cgspace.cgiar.org/items/6fc0913b-28f5-42b9-8eac-bc98b0df0d37)
+7. | Strengthening the roots of an agri-carbon market | 2024 | The Hindu | [Restricted access](https://www.thehindu.com/opinion/op-ed/strengthening-the-roots-of-an-agri-carbon-market/article69001526.ece) [Open access](https://www.researchgate.net/publication/387219223_Op-ed_Strengthening_the_roots_of_an_agri-carbon_market_in_The_Hindu)
+8. | Seed Market Dynamics and Diffusion of Improved Wheat Varieties in Bihar, India: A Supply-Side Perspective | 2024 | Agricultural and Food Economics | [Open access](https://link.springer.com/article/10.1186/s40100-024-00330-w)
+9. | Carbon Farming in India: Are the Existing Projects Inclusive, Additional, and Permanent? | 2024 | Climate Policy | [Open access](https://www.tandfonline.com/doi/full/10.1080/14693062.2024.2416497)
+10. | Evaluating the Potential and Eligibility of Conservation Agriculture Practices for Carbon Credits | 2024 | Scientific Reports | [Open access](https://www.nature.com/articles/s41598-024-59262-6)
+11. | Shaping India's climate future: A perspective on harnessing carbon credits from agriculture | 2024 | Outlook on Agriculture | [Open access](https://doi.org/10.1177/00307270241240778)
+12. | Understanding carbon credits from agriculture | 2023 | AESA | [Open access](https://cgspace.cgiar.org/handle/10568/132461) 
+13. | Milking the cash cow with carbon credits | 2023 | The Tribune | [Open access](https://www.tribuneindia.com/news/features/milking-the-cash-cow-with-carbon-credits-534945)
+14. | Farming carbon credits | 2023 | The Hindu Businessline | [Restricted access](https://www.thehindubusinessline.com/opinion/farming-carbon-credits/article67559222.ece) [Open access](https://www.researchgate.net/publication/375861068_Farming_carbon_credits)
+15. | Carbon farming in India: Case studies from Maharashtra and Telangana | 2023 | CGIAR | [Open access](https://cgspace.cgiar.org/handle/10568/134967)
 
 # Before CIMMYT #
 
