@@ -6,7 +6,7 @@ title: "Latest research"
 
 Sl. No.| Title | Year | Outlet | Link
 ------------ | ------------- | ------------ | ------------- | -------------
-1. | On Biodiversity-Inclusive Carbon Crediting in Agriculture: Insights from Crop Residue Burning | 2025 | Environmental Research Letters | Provisionally accepted
+1. | On Biodiversity-Inclusive Carbon Crediting in Agriculture: Insights from Crop Residue Burning | 2025 | Environmental Research Letters | [Open access](https://iopscience.iop.org/article/10.1088/1748-9326/ae2492)
 2. | Understanding Farmers’ Trust in Stakeholders of Carbon Credit Projects:  A Perception-Based Analysis | 2025 | Current Research in Environmental Sustainability | [Open access](https://www.sciencedirect.com/science/article/pii/S2666049025000404)
 3. | Ensure safeguards for India’s carbon market | 2025 | The Hindu | [Restricted access](https://www.thehindu.com/opinion/op-ed/ensure-safeguards-for-indias-carbon-market/article70171739.ece) [Open access](https://www.researchgate.net/publication/396788002_Comment_Ensure_safeguards_for_India's_carbon_market)
 4. | Crop burning’s biodiversity crisis | 2025 | The Hindu Businessline | [Restricted access](https://www.thehindubusinessline.com/opinion/crop-burnings-biodiversity-crisis/article69906890.ece)  [Open access](https://www.researchgate.net/publication/394419299_Opinion_in_The_Hindu_BusinessLine_Biodiversity_Crisis)
