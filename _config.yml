@@ -1,6 +1,6 @@
 title: "A. G. Adeeth Cariappa"
 author: "A. G. Adeeth Cariappa"
-description: "Agricultural Economics"
+description: "Environmental and Resource Economist working on agricultural carbon markets, climate-smart agriculture, and food systems policy."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,9 +16,9 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:
+  - {title: "Research", file: "latest.md"}
+  - {title: "Resources", file: "more.md"}
   - {title: "CV", url: "/CV.pdf"}
-  - {title: "Articles", file: "latest.md"}
-  - {title: "Research Resources", file: "more.md"}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adeeth07@gmail.com"}
