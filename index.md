@@ -70,7 +70,7 @@ Previously, I worked as a Post-Doctoral Fellow at CIMMYT, a Young Professional i
     <a href="https://iopscience.iop.org/article/10.1088/1748-9326/ae2492">Open access</a>
   </article>
   <article>
-    <p class="meta">2024 - Climate Policy</p>
+    <p class="meta">2025 - Climate Policy</p>
     <h3>Carbon Farming in India</h3>
     <p>Evidence on whether existing projects are inclusive, additional, and permanent.</p>
     <a href="https://www.tandfonline.com/doi/full/10.1080/14693062.2024.2416497">Open access</a>
