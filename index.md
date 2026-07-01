@@ -51,7 +51,7 @@ Previously, I worked as a Post-Doctoral Fellow at CIMMYT, a Young Professional i
   <article>
     <span>02</span>
     <h3>Climate-smart farming</h3>
-    <p>Assessing conservation agriculture, residue management, and emission-intensity reduction strategies.</p>
+    <p>Assessing conservation agriculture, climate-adaptive varieties, residue management, and emission-intensity reduction strategies.</p>
   </article>
   <article>
     <span>03</span>
