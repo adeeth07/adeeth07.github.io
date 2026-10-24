@@ -14,7 +14,7 @@ title: ""
     </div>
   </div>
   <figure class="portrait-card">
-    <img src="unnamed.jpg" alt="A. G. Adeeth Cariappa">
+    <img src="DP.JPEG" alt="A. G. Adeeth Cariappa">
     <figcaption>Associate Scientist - Environmental and Resource Economist, CIMMYT</figcaption>
   </figure>
 </section>
